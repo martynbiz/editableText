@@ -53,7 +53,7 @@ $(".textForm").editableText({
 });
 ```
 
-So when the user has updated the field, the onSave callback will be triggered. In this case, it saves the change. See example <a target="_blank" href="http://jsfiddle.net/bizt/y4p9u/13/">here</a>.
+So when the user has updated the field, the onSave callback will be triggered. In this case, it saves the change. See example <a target="_blank" href="http://jsfiddle.net/bizt/y4p9u/14/">here</a>.
 
 ## Options
 
